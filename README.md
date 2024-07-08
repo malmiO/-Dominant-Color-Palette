@@ -1,4 +1,4 @@
-# Dominant Color Palette
+# 🔷 Dominant Color Palette
 
 ### This application developed to analysis color images using OpenCV and Python with K-means clustering.This application build with in Google Colabs but can use in other editers.
 
