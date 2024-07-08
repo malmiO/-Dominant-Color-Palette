@@ -37,4 +37,6 @@
 Note
 Adjust the k value (number of clusters) in the K-means clustering section to experiment different numbers of dominant colors.
 
-[Uploading Dominant Color Palatte.pdf…]()
+PDF
+
+[Dominant Color Palatte.pdf](https://github.com/user-attachments/files/16135164/Dominant.Color.Palatte.pdf)
